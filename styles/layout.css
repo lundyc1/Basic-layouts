@@ -23,3 +23,8 @@ article{
 .bottom {
     clear:left;
 }
+
+
+* {
+  font-family:Arial, Helvetica, sans-serif;
+}
